@@ -16,7 +16,7 @@ Obiettivi:
 - Esplorare le correlazioni tra il flusso veicolare e le emissioni rilevate di PM2.5.
 - Prevedere l'andamento del traffico tramite modello LSTM.
 
-Tecnologie Utilizzate (fare riferimento al file 'requirements.txt' per installare le dipendenze utilizzate nel progetto):  
+Tecnologie Utilizzate (fare riferimento al file `requirements.txt` per installare le dipendenze utilizzate nel progetto):  
 - pandas, numpy per l'analisi dei dati  
 - scikit-learn per la modellazione  
 - geopandas per la manipolazione e analisi di dati geospaziali  
@@ -27,3 +27,4 @@ Tecnologie Utilizzate (fare riferimento al file 'requirements.txt' per installar
 
 
 ![Mappa delle spire realizzata con folium](foliumap.png)
+*"Mappa interattiva generata con Folium. GitHub non visualizza l'output di questa cella di codice, quindi è stato inserito un screenshot della mappa per visualizzare risultati."*
