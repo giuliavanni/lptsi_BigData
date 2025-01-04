@@ -1,0 +1,15 @@
+# Ambiente virtuale
+myenv/
+
+# File di Visual Studio Code
+.vscode/
+
+# File Jupyter Notebook checkpoints 
+.ipynb_checkpoints/
+
+# File di log di Python
+*.log
+
+# File di backup di editor
+*~
+
